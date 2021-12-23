@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\steph\\.nuget\\packages\\": {}
+    "C:\\Users\\steph\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steph\\Desktop\\C# Projecten\\Drankautomaat\\Drankautomaat.csproj",
+      "projectUniqueName": "C:\\Users\\steph\\OneDrive\\Bureaublad\\Discord-Bot\\Drankenautomaat\\Drankautomaat.csproj",
       "projectName": "Drankautomaat",
-      "projectPath": "C:\\Users\\steph\\Desktop\\C# Projecten\\Drankautomaat\\Drankautomaat.csproj",
+      "projectPath": "C:\\Users\\steph\\OneDrive\\Bureaublad\\Discord-Bot\\Drankenautomaat\\Drankautomaat.csproj",
       "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steph\\Desktop\\C# Projecten\\Drankautomaat\\obj\\",
+      "outputPath": "C:\\Users\\steph\\OneDrive\\Bureaublad\\Discord-Bot\\Drankenautomaat\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\bin\Debug\net6.0\Drankautomaat.exe
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\bin\Debug\net6.0\Drankautomaat.deps.json
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\bin\Debug\net6.0\Drankautomaat.runtimeconfig.json
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\bin\Debug\net6.0\Drankautomaat.dll
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\bin\Debug\net6.0\ref\Drankautomaat.dll
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\bin\Debug\net6.0\Drankautomaat.pdb
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.dll
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\ref\Drankautomaat.dll
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.pdb
+C:\Users\steph\OneDrive\Bureaublad\Discord-Bot\Drankenautomaat\obj\Debug\net6.0\Drankautomaat.genruntimeconfig.cache
