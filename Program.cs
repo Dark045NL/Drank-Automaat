@@ -5,7 +5,7 @@ int iDrank = 0;
 
 Console.WriteLine("Hey welkom!");
 Console.WriteLine("Welk drankje zou je graag willen ik heb.");
-Console.WriteLine("1. Coca Cola, 2. Coca Cola Zero, 3. Coca Cola Light, 4. Icetea Peach, 5. Pepsi Cola");
+Console.WriteLine("1. Cola, 2. Cola-light, 3. Sinas, 4. Ice-tea, 5. Energie drankje");
 Console.WriteLine("Geef het nummer van het drankje.");
 iDrank = Convert.ToInt32(Console.ReadLine());
 
@@ -13,31 +13,31 @@ switch (iDrank)
 {
     case 1:
         dBedrag = 1.80;
-        Console.WriteLine($"Uw Coca Cola kost €{dBedrag}");
+        Console.WriteLine($"Uw Cola kost {dBedrag}");
         break;
 
 
     case 2:
         dBedrag = 1.80;
-        Console.WriteLine($"Uw Coca Cola Zero kost €{dBedrag}");
+        Console.WriteLine($"Uw Cola-light kost {dBedrag}");
         break;
 
 
     case 3:
         dBedrag = 2.00;
-        Console.WriteLine($"U Coca Cola Light kost €{dBedrag}");
+        Console.WriteLine($"Uw Sinas kost {dBedrag}");
         break;
 
 
     case 4:
         dBedrag = 2.20;
-        Console.WriteLine($"U Icetea Peach kost €{dBedrag}");
+        Console.WriteLine($"Uw Ice-tea kost {dBedrag}");
         break;
 
 
     case 5:
         dBedrag = 2.10;
-        Console.WriteLine($"U Pepsi Cola kost €{dBedrag}");
+        Console.WriteLine($"Uw Energie drankje kost {dBedrag}");
         break;
 }
 
@@ -52,7 +52,7 @@ if (sBetaalWijze == "Ja")
 
 else if (sBetaalWijze == "Nee")
 {
-    Console.WriteLine($"Gooi €{dBedrag} in de automaat.");
+    Console.WriteLine($"Gooi {dBedrag} in de automaat.");
     Console.WriteLine("Kunt u gepast betalen j/n");
     string sGepast = Console.ReadLine();
 
@@ -65,7 +65,7 @@ else if (sBetaalWijze == "Nee")
         Console.WriteLine("Hoeveel gooit u in de automaat ?");
         double dGeld = Convert.ToInt32(Console.ReadLine());
         double dWisselgeld = dGeld - dBedrag;
-        Console.WriteLine($"Uw krijgt nog €{dWisselgeld} terug");
+        Console.WriteLine($"Uw krijgt nog {dWisselgeld} terug");
     }
 }
 
