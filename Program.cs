@@ -50,7 +50,7 @@ if (sBetaalWijze == "Ja")
     Console.WriteLine("Betaling succesvol.");
 }
 
-else
+else if (sBetaalWijze == "Nee")
 {
     Console.WriteLine($"Gooi €{dBedrag} in de automaat.");
     Console.WriteLine("Kunt u gepast betalen j/n");
@@ -71,7 +71,7 @@ else
 
 if (iRandom < 7)
 {
-    Console.WriteLine("Blikje blijf hangen");
+    Console.WriteLine("Blikje blijft hangen");
 }
 
 else
